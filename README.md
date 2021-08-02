@@ -6,22 +6,22 @@
 
 ## 🙋‍♂️ About Me
 
-I'm a passionate Full Stack Web And App Developer and I am interested in developing new things which excite me a lot. I love exploring new technologies and being a practitioner, I like to stay on top of latest trends :)
+I'm a passionate Full Stack Web And App Developer and I am interested in developing new things which excite me a lot. I'm focusing on React, Express and AWS and I also love relational databases and productivity hacks. On top of that I like to stay current with the latest trends :)
 
-I'm a web developer.<br/>I specialize in React and Express.<br> I also love relational databases and productivity hacks etc.
+I'm a web developer.<br/> etc.
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1453406830/264/success-kid.png?1453406830" align="center"
                 width="28" /> What I currently do</h2></summary>
 
 - ☀️I'm working on a Chrome site blocker extension based on James Clears 'Atomic Habits' principles.
 - 🌱 I’m currently learning advanced JS and React.
--  I’m looking to collaborate on Frontend-Web and Flutter projects.
-- 🤔 I’m looking for help with React.
-- 💬 Ask me about Flutter, Front-end Web Development, Any tech-related stuff.
+- 🦑 I’m looking to collaborate Front-end and React projects.
+- 🦉 I’m looking for help with AWS.
+- 💬 Ask me about JS and any tech-related stuff.
 
-- 📫 How to reach me **mittalsam98@gmail.com**
+- 📫 How to reach me **gabriel.t.mchugh@gmail.com**
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+- ⚡ Fun fact **I'm into Productivity, MMA and Story**
 
 ## 🚀 Languages and Tools:
 

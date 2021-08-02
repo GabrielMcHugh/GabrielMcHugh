@@ -10,8 +10,7 @@ I'm a passionate Full Stack Web And App Developer and I am interested in develop
 
 I'm a web developer.<br/> etc.
 
-<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1453406830/264/success-kid.png?1453406830" align="center"
-                width="28" /> What I currently do</h2></summary>
+## 👨‍🏭 What I Currently Do
 
 - ☀️I'm working on a Chrome site blocker extension based on James Clears 'Atomic Habits' principles.
 - 🌱 I’m currently learning advanced JS and React.

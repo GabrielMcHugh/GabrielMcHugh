@@ -1,19 +1,19 @@
-<h1><p align="center">Hello, I'm Rahul Mahesh! <a href="https://rahulmahesh.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
+<h1><p align="center">Hello, I'm Gabriel McHugh! <a href="https://rahulmahesh.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
 
 <p align="center" ><img 
  src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" width="40%"/></p>
 
 
-<p align="center">I'm a student developer.<br/>I specialize in Web-Development and Flutter.<br> I also love writing Tech-blogs, Graphic Design etc.<br></p><br/>
+<p align="center">I'm a web developer.<br/>I specialize in React and Express.<br> I also love relational databases and productivity hacks etc.<br></p><br/>
 
 <p align = "center"><a href="https://www.buymeacoffee.com/rahulmahesh62"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="rahulmahesh62" /></a></p><br><br>
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1453406830/264/success-kid.png?1453406830" align="center"
                 width="28" /> What I currently do</h2></summary>
 
-- 🔭 I'm working on some secret stuff.
-- 🌱 I’m currently learning React and Flutter.
-- 👯 I’m looking to collaborate on Frontend-Web and Flutter projects.
+- ☀️I'm working on a Chrome site blocker extension based on James Clears 'Atomic Habits' principles.
+- 🌱 I’m currently learning advanced JS and React.
+-  I’m looking to collaborate on Frontend-Web and Flutter projects.
 - 🤔 I’m looking for help with React.
 - 💬 Ask me about Flutter, Front-end Web Development, Any tech-related stuff.
 

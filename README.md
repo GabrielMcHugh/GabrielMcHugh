@@ -17,11 +17,6 @@
 - 🤔 I’m looking for help with React.
 - 💬 Ask me about Flutter, Front-end Web Development, Any tech-related stuff.
 
-<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
-                width="28" /> To connect with me</h2></summary>
-
-### <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sachin Mittal</h1>
-
 <h1 align="center"><a href="#"><img width="200" height="200" src="https://i.imgur.com/799y5A3.png"/></a></h1>
 
 ## 🙋‍♂️ About Me

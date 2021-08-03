@@ -8,7 +8,7 @@
 
 I'm a passionate Full Stack Web And App Developer and I am interested in developing new things which excite me a lot. I'm focusing on React, Express and AWS and I also love relational databases and productivity hacks. On top of that I like to stay current with the latest trends :)
 
-I'm a web developer.<br/> etc.
+My portfolio is hosted at <br>https://www.gabrielmchugh.com<br/> etc.
 
 ## 👨‍🏭 What I Currently Do
 
@@ -18,7 +18,8 @@ I'm a web developer.<br/> etc.
 - 🦑 I’m looking to collaborate Front-end and React projects.
 - 💬 Ask me about JS and any tech-related stuff.
 
-- 📫 How to reach me **gabriel.t.mchugh@gmail.com**
+- 📫 How to reach me 
+- **gabriel.t.mchugh@gmail.com**
 
 - ⚡ Fun fact **I'm into Productivity, MMA and Story**
 

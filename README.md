@@ -14,8 +14,8 @@ I'm a web developer.<br/> etc.
 
 - ☀️I'm working on a Chrome site blocker extension based on James Clears 'Atomic Habits' principles.
 - 🌱 I’m currently learning advanced JS and React.
+- 🦉 I’m migrating my web portfolio from S3 to Amplify (AWS)
 - 🦑 I’m looking to collaborate Front-end and React projects.
-- 🦉 I’m looking for help with AWS.
 - 💬 Ask me about JS and any tech-related stuff.
 
 - 📫 How to reach me **gabriel.t.mchugh@gmail.com**

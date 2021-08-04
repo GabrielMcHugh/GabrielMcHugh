@@ -17,8 +17,10 @@ My portfolio is hosted at https://www.gabrielmchugh.com
 </p>
 
 ### 🏆 Courses I've completed
-
-<p><a href="https://academy.zerotomastery.io/p/complete-web-developer-zero-to-mastery" target="_blank"><img src="https://i.ytimg.com/vi/X8_E854ohCI/maxresdefault.jpg" height="100"></a></p>
+ <p align="left">
+  <a href="https://my.uq.edu.au/programs-courses/plan.html?acad_plan=coscix2030" target="_blank"> <img      src="https://static.wixstatic.com/media/2de6c5_09f34e292e9d4c4587cf92c58be01283~mv2.png/v1/fill/w_525,h_168,al_c,q_85,usm_0.66_1.00_0.01/RMIT_University_Logo.webp"  height="100"> </a> 
+    <a href="https://academy.zerotomastery.io/p/complete-web-developer-zero-to-mastery" target="_blank"><img src="https://i.ytimg.com/vi/X8_E854ohCI/maxresdefault.jpg" height="100"></a>
+</p>
 
 ## 👨‍🏭 What I Currently Do
 

@@ -12,8 +12,8 @@ My portfolio is hosted at https://www.gabrielmchugh.com
 
 ## 👩‍🏫  What I'm studying
 <p align="left">
-    <a href="https://edabit.com/user/D3xmSa4k7NPX6XfuZ" target="_blank"> <img src="https://s3.amazonaws.com/edabit-images/monster001.png" height="250" width="250" object-fit="contain"> </a>
-    <a href="https://academy.zerotomastery.io/p/advanced-javascript-concepts" target="_blank"> <img src="https://images.ctfassets.net/aq13lwl6616q/3MYbjVb8bVTFANpHgIaAS3/1d3fb347958e80881e77146e08cc7c4e/20_Vanilla_JavaScript_projects.png?w=800&q=50" height="250" width="250" object-fit="contain";> </a> 
+    <a href="https://edabit.com/user/D3xmSa4k7NPX6XfuZ" target="_blank"> <img src="https://s3.amazonaws.com/edabit-images/monster001.png" height="250" width="250" object-fit="cover"> </a>
+    <a href="https://academy.zerotomastery.io/p/advanced-javascript-concepts" target="_blank"> <img src="https://images.ctfassets.net/aq13lwl6616q/3MYbjVb8bVTFANpHgIaAS3/1d3fb347958e80881e77146e08cc7c4e/20_Vanilla_JavaScript_projects.png?w=800&q=50" height="250" width="250" object-fit="cover"> </a> 
 </p>
 
 ## 👨‍🏭 What I Currently Do

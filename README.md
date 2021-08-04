@@ -9,10 +9,6 @@
 I'm a passionate Full Stack Web And App Developer and I am interested in developing new things which excite me a lot. I'm focusing on React, Express and AWS and I also love relational databases and productivity hacks. On top of that I like to stay current with the latest trends :)
 
 My portfolio is hosted at https://www.gabrielmchugh.com
-| Syntax      | Description |
-| :---        |        ---: |
-| Header      | Title       |
-| Paragraph   | Text        |
 
 ## 👩‍🏫  Courses and Coding Challenges I'm On
 <p align="left">

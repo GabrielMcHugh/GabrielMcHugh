@@ -16,7 +16,7 @@ My portfolio is hosted at https://www.gabrielmchugh.com
     <a href="https://edabit.com/user/D3xmSa4k7NPX6XfuZ" target="_blank"> <img src="https://s3.amazonaws.com/edabit-images/logo_wide_large.png" height="100"></a>
 </p>
 
-### Courses I've completed
+### 🏆 Courses I've completed
 
 <p><a href="https://academy.zerotomastery.io/p/complete-web-developer-zero-to-mastery" target="_blank"><img src="https://i.ytimg.com/vi/X8_E854ohCI/maxresdefault.jpg" height="100"></a></p>
 

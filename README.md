@@ -12,7 +12,7 @@ My portfolio is hosted at https://www.gabrielmchugh.com
 
 ## 👩‍🏫  What I'm studying
 <p align="left">
-    <a href="https://edabit.com/user/D3xmSa4k7NPX6XfuZ" target="_blank"> <img style="  background: url(blah.jpg) 50% 50% no-repeat;width:250px;height:250px;" src="https://s3.amazonaws.com/edabit-images/monster001.png"/> </a>
+    <a href="https://edabit.com/user/D3xmSa4k7NPX6XfuZ" target="_blank"> <img style="width:250px;height:250px;" src="https://s3.amazonaws.com/edabit-images/monster001.png"/> </a>
     <a href="https://academy.zerotomastery.io/p/advanced-javascript-concepts" target="_blank"> <img src="https://images.ctfassets.net/aq13lwl6616q/3MYbjVb8bVTFANpHgIaAS3/1d3fb347958e80881e77146e08cc7c4e/20_Vanilla_JavaScript_projects.png?w=800&q=50"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
 </p>

@@ -10,6 +10,11 @@ I'm a passionate Full Stack Web And App Developer and I am interested in develop
 
 My portfolio is hosted at https://www.gabrielmchugh.com
 
+<div class="row">
+ <div float="left" width="50%"><p>test</p></div>
+  <div class="column">><p>test</p></div>
+</div>
+
 ## 👩‍🏫  Courses and Coding Challenges I'm On
 <p align="left">
   <a href="https://academy.zerotomastery.io/p/advanced-javascript-concepts" target="_blank"> <img      src="https://images.ctfassets.net/aq13lwl6616q/3MYbjVb8bVTFANpHgIaAS3/1d3fb347958e80881e77146e08cc7c4e/20_Vanilla_JavaScript_projects.png?w=800&q=50"  height="100"> </a> 

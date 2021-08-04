@@ -12,7 +12,7 @@ My portfolio is hosted at https://www.gabrielmchugh.com
 
 <div class="row">
  <div float="left" width="50%"><p>test</p></div>
-  <div class="column">><p>test</p></div>
+  <div class="column"><p>test</p></div>
 </div>
 
 ## 👩‍🏫  Courses and Coding Challenges I'm On

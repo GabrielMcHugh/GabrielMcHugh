@@ -12,8 +12,8 @@ My portfolio is hosted at https://www.gabrielmchugh.com
 
 ## 👩‍🏫  What I'm studying
 <p align="left">
-    <a href="https://edabit.com/user/D3xmSa4k7NPX6XfuZ" target="_blank"> <img src="https://repository-images.githubusercontent.com/210649365/2c2cb600-e0de-11e9-9095-e655c831fd29" height="250" width="250" box-shadow="10px 10px"> </a>
-    <a href="https://academy.zerotomastery.io/p/advanced-javascript-concepts" target="_blank"> <img src="https://images.ctfassets.net/aq13lwl6616q/3MYbjVb8bVTFANpHgIaAS3/1d3fb347958e80881e77146e08cc7c4e/20_Vanilla_JavaScript_projects.png?w=800&q=50" height="250" width="250" style="object-fit:cover;"> </a> 
+    <a href="https://edabit.com/user/D3xmSa4k7NPX6XfuZ" target="_blank"> <img class="courses" src="https://repository-images.githubusercontent.com/210649365/2c2cb600-e0de-11e9-9095-e655c831fd29"> </a>
+    <a href="https://academy.zerotomastery.io/p/advanced-javascript-concepts" target="_blank"> <img class="courses"src="https://images.ctfassets.net/aq13lwl6616q/3MYbjVb8bVTFANpHgIaAS3/1d3fb347958e80881e77146e08cc7c4e/20_Vanilla_JavaScript_projects.png?w=800&q=50" height="250" width="250" style="object-fit:cover;"> </a> 
 </p>
 
 ## 👨‍🏭 What I Currently Do
@@ -45,3 +45,11 @@ My portfolio is hosted at https://www.gabrielmchugh.com
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 </p>
+
+<style>
+courses {
+  height: 100px;
+  width: 100px;
+  object-fit: cover;
+}
+</style>

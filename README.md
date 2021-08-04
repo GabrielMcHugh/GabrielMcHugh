@@ -15,7 +15,7 @@ My portfolio is hosted at https://www.gabrielmchugh.com
 - ☀️I'm working on a Chrome site blocker extension based on James Clears 'Atomic Habits' principles.
 - 🌱 I’m currently learning advanced JS and React.
 - 🌲 Practicing JS through coding challenges on Edabit (https://edabit.com/user/D3xmSa4k7NPX6XfuZ)
-- 🦉 I’m migrating my web portfolio from S3 to Amplify (AWS)
+- 🦉 I’m building my web portfolio with React and AWS Amplify
 - 🦑 I’m looking to collaborate Front-end and React projects.
 - 💬 Ask me about JS and any tech-related stuff.
 

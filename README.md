@@ -1,3 +1,11 @@
+<style>
+.courses {
+  height: 100px;
+  width: 100px;
+  object-fit: cover;
+}
+</style>
+
 <h1><p align="center">Hello, I'm Gabriel McHugh! <a href="https://rahulmahesh.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
 
 <p align="center" ><img 
@@ -45,11 +53,3 @@ My portfolio is hosted at https://www.gabrielmchugh.com
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 </p>
-
-<style>
-.courses {
-  height: 100px;
-  width: 100px;
-  object-fit: cover;
-}
-</style>

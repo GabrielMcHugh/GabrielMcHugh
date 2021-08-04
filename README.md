@@ -1,11 +1,3 @@
-<style>
-.courses {
-  height: 100px;
-  width: 100px;
-  object-fit: cover;
-}
-</style>
-
 <h1><p align="center">Hello, I'm Gabriel McHugh! <a href="https://rahulmahesh.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
 
 <p align="center" ><img 
@@ -20,8 +12,8 @@ My portfolio is hosted at https://www.gabrielmchugh.com
 
 ## 👩‍🏫  What I'm studying
 <p align="left">
-    <a href="https://edabit.com/user/D3xmSa4k7NPX6XfuZ" target="_blank"> <img class="courses" src="https://repository-images.githubusercontent.com/210649365/2c2cb600-e0de-11e9-9095-e655c831fd29"> </a>
-    <a href="https://academy.zerotomastery.io/p/advanced-javascript-concepts" target="_blank"> <img class="courses"src="https://images.ctfassets.net/aq13lwl6616q/3MYbjVb8bVTFANpHgIaAS3/1d3fb347958e80881e77146e08cc7c4e/20_Vanilla_JavaScript_projects.png?w=800&q=50" height="250" width="250" style="object-fit:cover;"> </a> 
+    <a href="https://edabit.com/user/D3xmSa4k7NPX6XfuZ" target="_blank"> <img src="https://s3.amazonaws.com/edabit-images/logo_wide_large.png" height="100"> </a>
+    <a href="https://academy.zerotomastery.io/p/advanced-javascript-concepts" target="_blank"> <img class="courses"src="https://images.ctfassets.net/aq13lwl6616q/3MYbjVb8bVTFANpHgIaAS3/1d3fb347958e80881e77146e08cc7c4e/20_Vanilla_JavaScript_projects.png?w=800&q=50" height="100"> </a> 
 </p>
 
 ## 👨‍🏭 What I Currently Do

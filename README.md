@@ -12,7 +12,7 @@ My portfolio is hosted at https://www.gabrielmchugh.com
 
 ## 👩‍🏫  What I'm studying
 <p align="left">
-    <a href="https://edabit.com/user/D3xmSa4k7NPX6XfuZ" target="_blank"> <img src="https://s3.amazonaws.com/edabit-images/logo_wide_large.png" height="100"> </a>
+    <a href="https://edabit.com/user/D3xmSa4k7NPX6XfuZ" target="_blank"> <img src="https://s3.amazonaws.com/edabit-images/logo_wide_large.png" height="100"> <p>JS challenges to improve my coding skills</p></a>
     <a href="https://academy.zerotomastery.io/p/advanced-javascript-concepts" target="_blank"> <img class="courses"src="https://images.ctfassets.net/aq13lwl6616q/3MYbjVb8bVTFANpHgIaAS3/1d3fb347958e80881e77146e08cc7c4e/20_Vanilla_JavaScript_projects.png?w=800&q=50" height="100"> </a> 
 </p>
 

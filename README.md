@@ -19,8 +19,7 @@ My portfolio is hosted at https://www.gabrielmchugh.com
 - 🦑 I’m looking to collaborate Front-end and React projects.
 - 💬 Ask me about JS and any tech-related stuff.
 
-- 📫 How to reach me 
-- **gabriel.t.mchugh@gmail.com**
+- 📫 How to reach me: **gabriel.t.mchugh@gmail.com**
 
 - ⚡ Fun fact **I'm into Productivity, MMA and Story**
 

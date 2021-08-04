@@ -10,7 +10,7 @@ I'm a passionate Full Stack Web And App Developer and I am interested in develop
 
 My portfolio is hosted at https://www.gabrielmchugh.com
 | Syntax      | Description |
-| ----------- | ----------- |
+| :---        |        ---: |
 | Header      | Title       |
 | Paragraph   | Text        |
 

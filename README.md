@@ -27,7 +27,7 @@ My portfolio is hosted at https://www.gabrielmchugh.com
 
 - 📫 How to reach me: **gabriel.t.mchugh@gmail.com**
 
-- ⚡ Fun fact **I'm into Productivity, MMA and Story**
+- ⚡ Fun fact **I'm into Productivity, MMA and Creative Writing**
 
 ## 🚀 Languages and Tools:
 

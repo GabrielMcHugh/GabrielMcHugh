@@ -47,7 +47,7 @@ My portfolio is hosted at https://www.gabrielmchugh.com
 </p>
 
 <style>
-courses {
+.courses {
   height: 100px;
   width: 100px;
   object-fit: cover;

@@ -1,4 +1,4 @@
 ### Web Developer
-- Angular (1+ years)
+- Angular (2 years)
 - React (0.5 years)
 - Node/Express.js
